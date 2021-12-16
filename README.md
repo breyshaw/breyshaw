@@ -1,4 +1,4 @@
-## Brey Shaw
+## About me!
 
 
 <h5>:computer: I love to code! :keyboard:</h5>

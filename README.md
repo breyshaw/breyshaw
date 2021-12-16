@@ -1,4 +1,4 @@
-## About me!
+<h2 align=center>About me!</h2>
 
 
 <h3 align=center>:computer: I love to code! :keyboard:</h3>
@@ -9,6 +9,10 @@
 
 [![Brey's GitHub stats](https://github-readme-stats.vercel.app/api?username=breyshaw&hide=stars,issues&theme=tokyonight)](https://github.com/breyshaw/github-readme-stats)
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breyshaw&layout=compact&theme=tokyonight)](https://github.com/breyshaw/github-readme-stats)
+
+
 
 <h3 align=center>Contact me:</h3>

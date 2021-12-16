@@ -1,11 +1,11 @@
 ## Brey Shaw
 
 
-<p>I love to code! :keyboard:</p>
-<p>I love to play video games! :video_game:</p>
-<p>Coding games for fun! :heart_eyes:</p>
+<p>:computer: I love to code! :keyboard:</p>
+<p>:video_game: I love to play video games! :video_game:</p>
+<p>:heart_eyes: Coding games for fun! :heart_eyes:</p>
 <p>Software Engineering Immersive Student @ General Assembly. :nerd_face:</p>
-<p>From Computer Technician to Software Engineer :computer:</p>
+<p>:desktop_computer: From Computer Technician to Software Engineer :computer:</p>
 
 [![Brey's GitHub stats](https://github-readme-stats.vercel.app/api?username=breyshaw&hide=stars,issues&theme=tokyonight)](https://github.com/breyshaw/github-readme-stats)
 

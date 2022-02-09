@@ -8,7 +8,7 @@
 <h3 align=center>:desktop_computer: From Computer Technician to Software Engineer :computer:</h3>
 <div align="center">
     <a href="#"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=breyshaw&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />  </a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breyshaw&layout=compact&theme=tokyonight"/></a> 
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breyshaw&langs_count=9&layout=compact&theme=tokyonight"/></a> 
 
 
 <h3 align=center>Contact me:</h3>
